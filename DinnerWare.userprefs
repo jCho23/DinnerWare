@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="DinnerWare/DinnerWare.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DinnerWare/Tests.cs">
+    <Files>
+      <File FileName="DinnerWare/Tests.cs" Line="32" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DinnerWare PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
