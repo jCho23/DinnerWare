@@ -1,14 +1,14 @@
 # DinnerWare
 Test Automation Scripts for DinnerWare
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
